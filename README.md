@@ -1,4 +1,4 @@
-# 2025-ITELEC2-WK02S01E03
+# 2025-ITELEC2-WK02S01E04
 Week 02 - Python Variables, Operators and I/O Statements
 
 Exercise # 04 - Utilizing Basic Math Libraries in Python
