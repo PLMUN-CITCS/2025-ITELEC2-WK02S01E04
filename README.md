@@ -91,8 +91,8 @@ Only perform this if this is the first time you will setup your Git Environment
    Square root of 16 is: 4.0
    Value of pi is: 3.141592653589793
    Sine of 30 degrees (in radians) is: 0.49999999999999994
-   Cosine of 60 degrees (in radians) is: 0.5000000000000001
-   Tangent of 45 degrees (in radians) is: 0.9999999999999999
+   Cosine of 60 degrees (in radians) is: 0.8660254037844387
+   Tangent of 45 degrees (in radians) is: 0.5773502691896257
    Exponential of 2 is: 7.38905609893065
    Logarithm (base e) of 10 is: 2.302585092994046
    Logarithm (base 10) of 100 is: 2.0
