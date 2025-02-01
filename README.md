@@ -197,7 +197,7 @@ git add .
    Write a meaningful commit message:
    
 ```bash
-git commit -m "Submitting Python Week 02 - Session 01 - Exercise 03"
+git commit -m "Submitting Python Week 02 - Session 01 - Exercise 04"
 ```
    
 4. Push your changes to GitHub:
