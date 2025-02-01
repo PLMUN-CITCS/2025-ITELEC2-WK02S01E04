@@ -1,7 +1,7 @@
 # 2025-ITELEC2-WK02S01E03
 Week 02 - Python Variables, Operators and I/O Statements
 
-Exercise # 03 - Arithmetic Operators and Operator Precedence in Python
+Exercise # 04 - Utilizing Basic Math Libraries in Python
 
 ## **Instructions**
 
@@ -114,62 +114,62 @@ Only perform this if this is the first time you will setup your Git Environment
       
    2.  Import the math module:
       - Use the import statement to import the math module. This makes the functions and constants within the math module available to your code.
-      ```python
-      import math
-      ```
+```python
+import math
+```
       
    3.  Calculate the square root:
       - Choose a number (e.g., 16) and store it in a variable.
       - Use the math.sqrt() function to calculate the square root of the number. Store the result in a variable.
-      ```python
-      number = 16
-      sqrt_result = math.sqrt(number)
-      ```
+```python
+number = 16
+sqrt_result = math.sqrt(number)
+```
 
    4. Get the value of pi:
       - Access the math.pi constant to get the value of π. Store it in a variable.
-      ```python
-      pi_value = math.pi
-      ```
+```python
+pi_value = math.pi
+```
 
    5. Calculate the sine of an angle:
       - Use the math.radians() function to convert the angle from degrees to radians. Store the result in a variable.
       - Use the math.sin() function to calculate the sine of the angle (in radians). Store the result in a variable.
-      ```python
-      angle_degrees = 30
-      angle_radians = math.radians(angle_degrees)
-      sin_result = math.sin(angle_radians)
-      ```
+```python
+angle_degrees = 30
+angle_radians = math.radians(angle_degrees)
+sin_result = math.sin(angle_radians)
+```
 
    6. Calculate the cosine and tangent of an angle:
       - Use math.cos() and math.tan() to calculate the cosine and tangent of the same angle (in radians). Store the results in variables.
-      ```python
-      cos_result = math.cos(angle_radians)
-      tan_result = math.tan(angle_radians)
-      ```
+```python
+cos_result = math.cos(angle_radians)
+tan_result = math.tan(angle_radians)
+```
          
    7. Calculate the exponential and logarithms:
       - Use math.exp() to calculate the exponential of a number (e.g., 2). Store the result in a variable.
       - Use math.log() to calculate the natural logarithm (base e) of a number (e.g., 10). Store the result in a variable.
       - Use math.log(x, base) to calculate the logarithm of x with a specified base (e.g., base 10 of 100). Store the result in a variable.
-      ```python
-      exp_result = math.exp(2)
-      log_result = math.log(10)  # Natural log (base e)
-      log10_result = math.log(100, 10) # Log base 10
-      ```
+```python
+exp_result = math.exp(2)
+log_result = math.log(10)  # Natural log (base e)
+log10_result = math.log(100, 10) # Log base 10
+```
          
    8. Display the results:
       - Use the print() function to display the results of all the calculations with descriptive labels.
-      ```python
-      print("Square root of", number, "is:", sqrt_result)
-      print("Value of pi is:", pi_value)
-      print("Sine of 30 degrees (in radians) is:", sin_result)
-      print("Cosine of 60 degrees (in radians) is:", cos_result)
-      print("Tangent of 45 degrees (in radians) is:", tan_result)
-      print("Exponential of 2 is:", exp_result)
-      print("Logarithm (base e) of 10 is:", log_result)
-      print("Logarithm (base 10) of 100 is:", log10_result)
-      ```
+```python
+print("Square root of", number, "is:", sqrt_result)
+print("Value of pi is:", pi_value)
+print("Sine of 30 degrees (in radians) is:", sin_result)
+print("Cosine of 60 degrees (in radians) is:", cos_result)
+print("Tangent of 45 degrees (in radians) is:", tan_result)
+print("Exponential of 2 is:", exp_result)
+print("Logarithm (base e) of 10 is:", log_result)
+print("Logarithm (base 10) of 100 is:", log10_result)
+```
 
    9. Run the code: Execute your Python code.
    10. Observe the output: Compare your output with the "Desired Output" shown above.
