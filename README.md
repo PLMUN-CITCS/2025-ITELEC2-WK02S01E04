@@ -114,23 +114,23 @@ Only perform this if this is the first time you will setup your Git Environment
       
    2.  Import the math module:
       - Use the import statement to import the math module. This makes the functions and constants within the math module available to your code.
-         ```python
-         import math
-         ```
+      ```python
+      import math
+      ```
       
    3.  Calculate the square root:
       - Choose a number (e.g., 16) and store it in a variable.
       - Use the math.sqrt() function to calculate the square root of the number. Store the result in a variable.
-         ```python
-         number = 16
-         sqrt_result = math.sqrt(number)
-         ```
+      ```python
+      number = 16
+      sqrt_result = math.sqrt(number)
+      ```
 
    4. Get the value of pi:
       - Access the math.pi constant to get the value of π. Store it in a variable.
-         ```python
-         pi_value = math.pi
-         ```
+      ```python
+      pi_value = math.pi
+      ```
 
    5. Calculate the sine of an angle:
       - Use the math.radians() function to convert the angle from degrees to radians. Store the result in a variable.
